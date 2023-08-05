@@ -32,7 +32,7 @@ link: [http://127.0.0.1:5500/OIBSIP/Calculator/Calculator.html]
 
 ## Credits
 
-This calculator was built by [Shashank Tripathi] as a project for [OASIS Internships]. 
+This calculator was built by `Shashank Tripathi` as a project for `OASIS Internships`. 
 
 ## License
 
